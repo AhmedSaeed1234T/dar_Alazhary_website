@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Dar Al-Azhary Banner" width="100%" />
+  <img src="img\الخلفيه .jpg" alt="Dar Al-Azhary Banner" width="100%" />
 </p>
 
 # 🌿 Dar Al-Azhary for Quran Memorization & Studies
