@@ -23,7 +23,7 @@
     .topbar i{margin-inline-start:4px;color:#94a3b8}
 
     header{position:sticky;top:0;z-index:50;background:white;border-bottom:1px solid #e5e7eb}
-    nav{display:flex;align-items:center;justify-content:space-between;gap:30px;padding:12px 0} /**/
+    nav{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:12px 0} 
     .logo{display:flex;align-items:center;gap:10px;font-weight:800;color:var(--brand)}
     .logo .mark{width:40px;height:40px;border-radius:12px;background:linear-gradient(135deg,var(--brand),#18a27f);display:grid;place-items:center;color:white}
     .nav-links{display:flex;gap:22px;align-items:center}
@@ -45,7 +45,7 @@
     .hero .illus{position:relative}
     .hero .illus img{border-radius:20px;box-shadow:0 20px 60px rgba(0,0,0,.08)}
 
-    section{padding:70px 0}
+    section{padding:100px 0} /**/
     .section-title{display:flex;align-items:center;gap:10px;margin:0 0 18px}
     .section-title .dot{width:10px;height:10px;border-radius:50%;background:var(--accent)}
     h2{margin:0 0 12px;font-size:clamp(22px,2.4vw,34px)}
